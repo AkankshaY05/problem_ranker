@@ -62,6 +62,6 @@ Codeforces handle integration
 
 Problem selection and daily updates are handled using localStorage, so behavior depends on the user’s browser and local time.
 
-💻 Built with consistency in mind.
+## 💻 Built with consistency in mind.
 
 Solve daily. Improve steadily. 🚀
