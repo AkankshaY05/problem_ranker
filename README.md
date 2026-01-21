@@ -1,37 +1,67 @@
-🚀 Codeforces Problem of the Day
+## 🚀 Codeforces Problem of the Day
 
-Codeforces Problem of the Day is a simple and interactive web application built to encourage daily competitive programming practice. It automatically fetches a new Codeforces problem every day and also lets users choose problems based on their preferred difficulty level.
+A clean and minimal web application that helps competitive programmers stay consistent by delivering a new Codeforces problem every day, with the option to practice problems based on difficulty rating.
 
-✨ Features
+## 🌟 Why This Project?
 
-🔄 Displays a random Codeforces problem that updates daily
+Consistency is key in competitive programming. This project removes decision fatigue by automatically selecting a problem daily, while still giving users control over difficulty when needed.
 
-🎯 Filter problems by difficulty rating (800–3500)
+## ✨ Key Features
 
-🔗 One-click Solve button to open the problem on Codeforces
+🔄 Daily problem update using browser storage
 
-👀 Visitor counter to track total visits
+🎯 Difficulty-based filtering (800–3500)
 
-📱 Responsive and user-friendly interface
+🔗 One-click solve redirect to Codeforces
 
-🛠️ Tech Stack
+👀 Visitor counter to track usage
 
-HTML
+📱 Responsive & clean UI
 
-CSS
+## 🛠️ Tech Stack
+
+HTML5
+
+CSS3
 
 JavaScript (Vanilla)
 
 Bootstrap 5
 
-Codeforces API
+Codeforces Problemset API
 
-🚀 Getting Started
+## 🚀 Getting Started
 
-No setup required. Just open index.html in your browser and start practicing consistently.
+No installation required.
 
-🎯 Purpose
+Clone or download the repository
 
-This project is aimed at helping programmers build a daily problem-solving habit while keeping the interface simple and distraction-free.
+Open index.html in any modern browser
 
-Happy Coding! 💻🔥
+Start solving — one problem every day 💪
+
+## 🎯 Use Cases
+
+Daily competitive programming practice
+
+Beginners exploring Codeforces
+
+Students preparing for interviews & contests
+
+## 🌱 Future Improvements
+
+Topic-based filtering (DP, Graphs, Greedy, etc.)
+
+User streak tracking
+
+Favorite problems list
+
+Codeforces handle integration
+
+## 📌 Note
+
+Problem selection and daily updates are handled using localStorage, so behavior depends on the user’s browser and local time.
+
+💻 Built with consistency in mind.
+
+Solve daily. Improve steadily. 🚀
